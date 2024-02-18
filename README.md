@@ -1,7 +1,7 @@
 # Internet Banking System Decryption Service
 
 ## Introduction
-You are implementing an internal interface for an Internet Banking System.
+ implemented an internal interface for an Internet Banking System.
 The interface is used as a "central point" of secure decryption of sensitive data.
 
 ## Problem Statement
